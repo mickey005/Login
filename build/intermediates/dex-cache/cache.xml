@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0e0463626c61e49e742b0e0198e5e8555270ea8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.4.0/344f5046848bc39ea9968149f22e8f2dcd444d1e/libphonenumber-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="344f5046848bc39ea9968149f22e8f2dcd444d1e">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/libphonenumber-8.4.0_234fbcf1248cc024e300e332301031aa875f6e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_937f0157db5766924e7e37d11b276e77f079af46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_b7ed4038c9317d38014d7c326aad76330b82ddce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_bd8f9a0429a11aeb62caf31d5d785043fb743771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_d2351b8dc731244975fff2b9eabb4465ce90c5c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ac831f553a04b0b4e27947db00fd08436fbef4f">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_878bdecef6584b8b1d888a08d361b3ce3d5a3044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_b6ade740e14ba6c1581956f56439420ec7ef0481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="524df000ab347b252a15d01079c92a1fa951cb97">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_20a55b4eea1ef58827f0da2843a2059b58885d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_f656fedbbe3113b08f38fd8cd295b758bf853960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.22.0_78b607453a5db5ec2814455be3ffd18944209f83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_c311707053a8a283b870aef4fd0837f062fd5d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_fb484a7b188fdb041222d9ac59fee69e961dab09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_8532d23424515acc1c683245c6527c7c895247d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_9b509a9cd2fc6f7396147e93193b92478f0c84ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_07681d5e3b5fbac619e8707becb0c336ac693eea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_ed3cec057cea34aa676e74528d3dd73c55dbfacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_bc9385c4f38a7fc4ceb34cc30409daaeaa377659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_9668b28d615d9525387df2c415033680513aa138/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_051617057a29e69b2a0728893cdb9a19530857de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_91848a2ecb78b21adc35fdbbc450e563abea3ade/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.facebook.android/account-kit-sdk/4.22.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="365dffcbaec9d0186865f51802739614a6a66321">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-account-kit-sdk-4.22.0_c3215e9b92aefb7bef9236475be02b7146dca712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_d1f48f22a45a49c4b5ff8e5c52f2d825e2ff4ba7/classes.dex" />
+    </item>
+
+</items>

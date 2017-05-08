@@ -1,0 +1,7 @@
+#Mon May 08 17:43:45 IST 2017
+base.0=/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_20a55b4eea1ef58827f0da2843a2059b58885d1e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_878bdecef6584b8b1d888a08d361b3ce3d5a3044/classes.dex
+base.1=/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_878bdecef6584b8b1d888a08d361b3ce3d5a3044
+file.0=/home/bitsbridge/Desktop/anand/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_20a55b4eea1ef58827f0da2843a2059b58885d1e/classes.dex
